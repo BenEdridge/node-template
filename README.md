@@ -1,2 +1,3 @@
-# template
-personal template repository
+# NodeJS template
+
+A simple NodeJS template for GitHub
